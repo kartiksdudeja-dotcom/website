@@ -28,7 +28,7 @@ const Overview = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-gold mb-4">
               Supreme Villagio
             </h2>
-            <h3 className="text-2xl text-secondary mb-6">Indulge in Nature's Serenity at Pune's Prime Spot</h3>
+            <h3 className="text-2xl text-secondary mb-6">Indulge in Nature&apos;s Serenity at Pune&apos;s Prime Spot</h3>
             <div className="space-y-4 text-gray-300 leading-relaxed">
               <p>
                 The pandemic has highlighted the numerous advantages of living in a spacious, 
