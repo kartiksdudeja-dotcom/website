@@ -32,7 +32,7 @@ const Overview = () => {
               </h2>
 
               <h3 className="text-2xl text-secondary mb-6">
-                {`Indulge in Nature's Serenity at Pune's Prime Spot`}
+                {"Indulge in Nature's Serenity at Pune's Prime Spot"}
               </h3>
 
               <div className="space-y-4 text-gray-300 leading-relaxed">
