@@ -8,7 +8,7 @@ const Overview = () => {
     <>
       {/* Banner Section */}
       <section className="relative py-16 bg-cover bg-center" style={{
-        backgroundImage: `url('https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=1600&q=80')`
+        backgroundImage: `url("https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=1600&q=80")`
       }}>
         <div className="absolute inset-0 bg-black/60"></div>
         <div className="container-custom relative z-10 text-center">
